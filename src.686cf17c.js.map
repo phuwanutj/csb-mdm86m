@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["require","document","getElementById","innerHTML"],"mappings":";;;AAOC,aAPDA,QAAA,gBAEAC,SAASC,eAAe,OAAOC,UAK9B","file":"src.686cf17c.js","sourceRoot":"..","sourcesContent":["import \"./styles.css\";\n\ndocument.getElementById(\"app\").innerHTML = `\n<h1>Hello Mew!</h1>\n<div>\n  Seminar workshop 03/04/2023.\n</div>\n`;\n"]}
